@@ -18,5 +18,5 @@ while i < n:
 	
 values = set(values)
 values.remove(0)
-print(values)
+print(sorted(values))
 input()
